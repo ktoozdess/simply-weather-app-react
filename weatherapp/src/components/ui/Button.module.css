@@ -1,0 +1,19 @@
+.btnui{
+    background-color: rgb(255, 136, 0);
+    padding: 10px 23px;
+    border-radius: 5%;
+}
+.inputui{
+    border-radius: 0%;
+    border: 0;
+    background-color:rgba(1, 17, 34, 0.918);
+    margin-right: 4px;
+    color: whitesmoke;
+    padding: 10px 23px;
+}
+.inputui:focus{
+    background-color:rgba(48, 48, 48, 0.918);
+    color: whitesmoke;
+    padding: 10px 23px;
+    outline:0px none transparent;
+}
